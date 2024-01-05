@@ -6,12 +6,12 @@
 🌱 I’m currently.......  
 🧬 I want to collaborate to learn and create new things
 ## **☎️Contact:**
-___
+
 <a href='https://www.Instagram.com/naasrlilhm_' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=flat&logo=Instagram&logoColor=F121EE&labelColor=ffffff&color=ECEDEC'/></a>
 <a href='' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/Discord-100000?style=flat&logo=Discord&logoColor=7289d9&labelColor=FFFFFF&color=7289d9'/></a>
 <a href='https://www.facebook.com/naz.riel.925?mibextid=ZbWKwL' target="_blank"><img alt='Facebook' src='https://img.shields.io/badge/Facebook-100000?style=flat-square&logo=Facebook&logoColor=216AF4&labelColor=EDECEC&color=216AF4'/></a>
-### **🖥️Studied tech:**
-___
+## **🖥️Studied tech:**
+
 <a href='' target="_blank"><img alt='html5' src='https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF9000&color=FF9000'/></a>
 <a href='' target="_blank"><img alt='css3' src='https://img.shields.io/badge/CSS3-100000?style=for-the-badge&logo=css3&logoColor=white&labelColor=2965f1&color=2965f1'/></a>
 <a href='' target="_blank"><img alt='javascript' src='https://img.shields.io/badge/JAVASCRIPT-100000?style=for-the-badge&logo=javascript&logoColor=F0DB4F&labelColor=4E4F4C&color=4E4F4C'/></a>
