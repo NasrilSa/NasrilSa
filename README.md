@@ -19,7 +19,11 @@
 <a href='' target="_blank"><img alt='windows' src='https://img.shields.io/badge/Windows-100000?style=for-the-badge&logo=windows&logoColor=2A87F0&labelColor=F0E9E9&color=2782DD'/></a>
 <a href="" target="_blank"><img alt='Microsoft powerpoint' src='https://img.shields.io/badge/Powerpoint-100000?style=for-the-badge&logo=Microsoft powerpoint&logoColor=FFFCF9&labelColor=ED8D07&color=ED8D07'/></a>
 <a href='' target="_blank"><img alt='Microsoft word' src='https://img.shields.io/badge/Word-100000?style=for-the-badge&logo=Microsoft word&logoColor=FFFCF9&labelColor=41A5EE&color=255EBE'/></a>
-<a href='' target="_blank"><img alt='Android' src='https://img.shields.io/badge/Android-100000?style=for-the-badge&logo=Android&logoColor=3DDC84&labelColor=DAE4DF&color=3DDC84'/></a>
+<a href='' target="_blank"><img alt='Microsoft Excel' src='https://img.shields.io/badge/Excel-100000?style=for-the-badge&logo=Microsoft Excel&logoColor=333533&labelColor=2DD717&color=2BCD27'/></a>
+<a href='' target="_blank"><img alt='Android' src='https://img.shields.io/badge/Android-100000?style=for-the-badge&logo=Android&logoColor=06CA06&labelColor=3C3B3B&color=3C3B3B'/></a>
+<a href='' target="_blank"><img alt='Python' src='https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=Python&logoColor=FDEE0B&labelColor=1594E4&color=1594E4'/></a>
+<a href='' target="_blank"><img alt='Linux' src='https://img.shields.io/badge/Linux-100000?style=for-the-badge&logo=Linux&logoColor=525251&labelColor=F4B505&color=F4B505'/></a>
+<a href='' target="_blank"><img alt='Npm' src='https://img.shields.io/badge/Npm-100000?style=for-the-badge&logo=Npm&logoColor=white&labelColor=FA0D0D&color=FA0D0D'/></a>
 
 <!---
 NasrilSa/NasrilSa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
