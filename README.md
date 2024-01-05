@@ -2,8 +2,7 @@
 
 👋 Hi, I’m Nasril ilham Sa  
 📝 I’m studying at SMKN 4 Bojonegoro  
-👀 I’m interested in programing   
-🌱 I’m currently learning Javascript   
+👀 I’m interested in programing     
 🧬 I want to collaborate to learn and create new things
 ### **🌐Socials:**
 
