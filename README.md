@@ -1,11 +1,11 @@
-## ***💫 About Me:***
+## ***🚀About Me:***
 
 👋 Hi, I’m Nasril ilham Sa  
-📝 I’m studying at SMKN 4 Bojonegoro  
+🧮 I’m studying at SMKN 4 Bojonegoro  
 👀 I’m interested in programing   
-🌱 I’m currently learning Javascript   
+🌱 I’m currently.......
 🧬 I want to collaborate to learn and create new things
-### **🌐Socials:**
+### **☎️Contact:**
 
 <a href='https://www.Instagram.com/naasrlilhm_' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=flat&logo=Instagram&logoColor=F121EE&labelColor=ffffff&color=ECEDEC'/></a>
 <a href='' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/Discord-100000?style=flat&logo=Discord&logoColor=7289d9&labelColor=FFFFFF&color=7289d9'/></a>
