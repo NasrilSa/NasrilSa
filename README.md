@@ -7,7 +7,6 @@
 - 🧬 I want to collaborate to learn and create new things
 ### **🌐Socials:**
 
-
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=F44FA5&labelColor=FCFFF6&color=E4E7E0'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Facebook' src='https://img.shields.io/badge/Facebook-100000?style=for-the-badge&logo=Facebook&logoColor=517DFA&labelColor=F4F4F4&color=1151D0'/></a>
 ## **💻Tech Stack:**
