@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing 
 - 🌱 I’m currently learning at SMKN 4 Bojonegoro 
 - 💞️ I’m looking to collaborate on ...
-- 📫 IG:Naasrlilhm_
+- 📫 [![@Naasrlilhm_](https://badge.ttsalpha.com/api?icon=instagram&label=@Naasrlilhm_&color=dark&labelColor=gray&iconColor=pink)](https://example.com)
 
 ![Visitors](https://api.visitorbadge.io/api/combined?path=NasrilSa&label=%F0%9F%91%80&labelColor=%232ccce4&countColor=%23697689&style=flat)
 
