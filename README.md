@@ -1,9 +1,9 @@
-## ***💬About Me***
+## ***💬About Me:***
 
 👋 Hi, I’m Nasril ilham Sa  
 📝 I’m studying at SMKN 4 Bojonegoro  
 👀 I’m interested in programing  
-🌱 I’m currently....
+🌱 I’m currently....  
 🧬 I want to collaborate to learn and create new things
 ### **🌐Socials:**
 
