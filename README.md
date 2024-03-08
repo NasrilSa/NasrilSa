@@ -1,6 +1,6 @@
 ## ***🚀About Me:***
 
-👋 Hi, I’m Nasril ilham Saputra 
+👋 Hi, I’m Nasril ilham Saputra
 🧮 I’m studying at SMKN 4 Bojonegoro  
 👀 I’m interested in programing   
 🌱 I’m currently.......  
@@ -23,9 +23,10 @@
 <a href='' target="_blank"><img alt='Microsoft Excel' src='https://img.shields.io/badge/Excel-100000?style=for-the-badge&logo=Microsoft Excel&logoColor=333533&labelColor=2DD717&color=2BCD27'/></a>
 <a href='' target="_blank"><img alt='Android' src='https://img.shields.io/badge/Android-100000?style=for-the-badge&logo=Android&logoColor=06CA06&labelColor=3C3B3B&color=3C3B3B'/></a>
 <a href='' target="_blank"><img alt='Python' src='https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=Python&logoColor=FDEE0B&labelColor=1594E4&color=1594E4'/></a>
-<a href='' target="_blank"><img alt='Linux' src='https://img.shields.io/badge/Linux-100000?style=for-the-badge&logo=Linux&logoColor=525251&labelColor=F4B505&color=F4B505'/></a>
+<a href='' target="_blank"><img alt='Linux' src='https://img.shields.io/badge/Linux-100000?style=for-the-badge&logo=Linux&logoColor=151414&labelColor=FFF9F9&color=F4BF03'/></a>
 <a href='' target="_blank"><img alt='Npm' src='https://img.shields.io/badge/Npm-100000?style=for-the-badge&logo=Npm&logoColor=white&labelColor=FA0D0D&color=FA0D0D'/></a>
 <a href='' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/github-100000?style=for-the-badge&logo=GitHub&logoColor=221F1F&labelColor=F4EFEF&color=EDEDED'/></a>
+`console.log("hello")`
 <!---
 NasrilSa/NasrilSa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
