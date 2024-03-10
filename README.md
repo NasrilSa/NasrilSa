@@ -3,7 +3,7 @@
 👋 Hi, I’m Nasril ilham Saputra  
 🧮 I’m studying at SMKN 4 Bojonegoro  
 👀 I’m interested in programing   
-🌱 I’m currently.......  
+🌱 I’m now 15 y.o
 🧬 I want to collaborate to learn and create new things
 ## **☎️Contact:**
 
