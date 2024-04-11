@@ -5,7 +5,7 @@
 
 - 👀 I’m interested at programming [-](-)
 
-- 🌱 I’m currently currently studying at SMKN 4 Bojonegoro **-**
+- 🧮 I’m currently studying at SMKN 4 Bojonegoro **-**
 
 - 🧬 I want to collaborate to learn and create new things [-](-)
 
