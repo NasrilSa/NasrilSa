@@ -9,7 +9,7 @@
 
 - 🧬 I want to collaborate to learn and create new things [-](-)
 
-- ⚡ Fun fact im 15 y.o **-**
+- 📌 Now im 15 y.o **-**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
